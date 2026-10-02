@@ -1,0 +1,6 @@
+{
+  "name": "CodeBattle",
+  "description": "Futuristic real-time multiplayer competitive coding platform. Challenge developers worldwide, solve problems in real-time, and climb the leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
